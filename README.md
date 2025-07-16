@@ -13,3 +13,9 @@ L’obiettivo è produrre un’analisi sui musicisti, sugli strumenti e sul tipo
 > Tecnologie utilizzate
 
 Excel, Power Query e Power BI.
+
+> Link Google Drive del mio video presentazione del Capstone Project.
+https://drive.google.com/file/d/1_nIdBVM68OLC4vRxkaSD-BuSJiDDhWDo/view?usp=drive_link
+
+
+
